@@ -2,7 +2,7 @@
 Free Sound Fonts for ProffieOS
 
 TeensySaber Font - provided by KRSabers  
-Rouge Commander - provided by Thexter  
+Rogue Commander - provided by Thexter  
 Smooth Fuzz - provided by Thexter  
 Smooth Jedi - provided by Thexter  
 Smooth Gray - provided by Thexter  
